@@ -10,3 +10,4 @@
 ## Тестирование проекта ##
 
 Для проверки корректности работы парсера следует запустить lib/pytest_schedule_parser.py
+![alt text](https://github.com/Natalie-Palchikovskaya/-Parser3/blob/main/%D1%82%D0%B5%D1%81%D1%82.png)
